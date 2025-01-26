@@ -57,7 +57,7 @@ api-wrapper/
 
 ### Wrapper Class
 
-The `Wrapper` class is designed to manage API requests efficiently. It ensures that no more than a specified number of concurrent requests are made to the same endpoint. Excess requests are queued and processed in order. For tesing purpose, I have added 1 second delay in response to see requests behaviour.
+The `Wrapper` class is designed to manage API requests efficiently. It ensures that no more than a specified number of concurrent requests are made to the same endpoint. Excess requests are queued and processed in order.
 
 
 ### React Application
